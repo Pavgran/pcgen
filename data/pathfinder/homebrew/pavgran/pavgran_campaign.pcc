@@ -5,6 +5,7 @@ RANK:9
 GENRE:Fantasy
 BOOKTYPE:Homebrew
 SETTING:Pavgran Campaign
+PRECAMPAIGN:2,INCLUDES=Path of War,INCLUDES=DSP - Ultimate Psionics
 TYPE:Homebrew.PathfinderHomebrew
 PUBNAMELONG:Pavgran
 PUBNAMESHORT:Pavgran
@@ -17,4 +18,5 @@ ISOGL:NO
 COPYRIGHT:My Pathfinder Campaign, Copyright 2015 by PCGen Team
 
 ABILITY:pavgran_traits.lst
-
+ABILITY:pavgran_abilities.lst
+SPELL:pavgran_maneuvers.lst
