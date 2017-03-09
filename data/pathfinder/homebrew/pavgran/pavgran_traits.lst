@@ -1,0 +1,3 @@
+SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mywebsite.com	SOURCEDATE:2008-01
+
+Honored Fist of the Society	CATEGORY:Special Ability	TYPE:Trait.BasicTrait.CombatTrait	PRECLASS:1,Monk=1	DESC:You have studied dozens of ancient texts on martial arts that only the Society possesses, and are more learned in these arts than most.	BONUS:VAR|KiPoints|1	BENEFIT:You increase your ki pool by 1 point.
