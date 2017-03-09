@@ -2,4 +2,5 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mywebsite
 
 CATEGORY=Internal|Pathwalker ~ Disciplines.MOD				DEFINE:SleepingGoddessPathwalkerDiscipline|0		ABILITY:Internal|AUTOMATIC|Pathwalker Discipline ~ Sleeping Goddess|PREVARGTEQ:SleepingGoddessPathwalkerDiscipline,1		BONUS:VAR|SleepingGoddessPathwalkerDiscipline|1
 
-Sleeping Goddess (Pathwalker)		KEY:Pathwalker Discipline ~ Sleeping Goddess		CATEGORY:Internal		TYPE:InitiatingDiscipline	SPELLLEVEL:CLASS|Pathwalker=1|Harmony-shattering Strike
+Sleeping Goddess (Pathwalker)		KEY:Pathwalker Discipline ~ Sleeping Goddess		CATEGORY:Internal		TYPE:InitiatingDiscipline	SPELLLEVEL:CLASS|Pathwalker=1|Body of Delusion,Harmony-shattering Strike
+
